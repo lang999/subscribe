@@ -118,9 +118,9 @@ dns:
 proxy-providers:
   订阅1:
     type: http
-    url: "https://sovless.sosorg.nyc.mn/ZY888"
+    url: "https://sub.52cloud.eu.org/api/v1/client/subscribe?token=02248c0c9d1348d0ebef2b1531429524"
     interval: 21600
-    path: ./proxy_providers/sub1.yaml
+    path: ./proxy_providers/sub2.yaml
     health-check:
       enable: true
       url: http://www.google.com/generate_204
@@ -136,7 +136,7 @@ proxy-providers:
       interval: 1800
   订阅3:
     type: http
-    url: "https://clv.lshan.eu.org/2024-10/027/c.yaml"
+    url: "https://sublinks.52cloud.eu.org/api/v1/client/subscribe?token=b26fe554f300d7c9573d858c11b50a0b"
     interval: 21600
     path: ./proxy_providers/sub2.yaml
     health-check:
