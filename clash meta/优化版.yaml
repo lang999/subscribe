@@ -118,9 +118,9 @@ dns:
 proxy-providers:
   订阅1:
     type: http
-    url: "https://sub.52cloud.eu.org/api/v1/client/subscribe?token=02248c0c9d1348d0ebef2b1531429524"
+    url: "https://sub.52cloud.eu.org/api/v1/client/subscribe?token=cae867c7716278acddfb0d38d088ca42"
     interval: 21600
-    path: ./proxy_providers/sub2.yaml
+    path: ./proxy_providers/sub1.yaml
     health-check:
       enable: true
       url: http://www.google.com/generate_204
