@@ -127,7 +127,7 @@ proxy-providers:
       interval: 1800
   订阅2:
     type: http
-    url: "https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4"
+    url: "https://url.v1.mk/sub?target=clash&url=https://textdb.online/FenMeiLovePP1730534865067&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online_Full_NoAuto.ini&emoji=true&list=false&xudp=false&udp=false&tfo=false&expand=true&scv=false&fdn=false&new_name=true"
     interval: 21600
     path: ./proxy_providers/sub2.yaml
     health-check:
@@ -136,7 +136,7 @@ proxy-providers:
       interval: 1800
   订阅3:
     type: http
-    url: "https://sublinks.52cloud.eu.org/api/v1/client/subscribe?token=b26fe554f300d7c9573d858c11b50a0b"
+    url: "https://ghfast.top/https://raw.githubusercontent.com/yuanwangokk-1/subscribe/refs/heads/main/clash/a.yaml"
     interval: 21600
     path: ./proxy_providers/sub2.yaml
     health-check:
