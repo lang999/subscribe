@@ -118,7 +118,7 @@ dns:
 proxy-providers:
   订阅1:
     type: http
-    url: "https://sub.52cloud.eu.org/api/v1/client/subscribe?token=cae867c7716278acddfb0d38d088ca42"
+    url: "https://gh-proxy.com/raw.githubusercontent.com/yuanwangokk-1/subscribe/refs/heads/main/clash/a.yaml"
     interval: 21600
     path: ./proxy_providers/sub1.yaml
     health-check:
@@ -136,7 +136,7 @@ proxy-providers:
       interval: 1800
   订阅3:
     type: http
-    url: "https://ghfast.top/https://raw.githubusercontent.com/yuanwangokk-1/subscribe/refs/heads/main/clash/a.yaml"
+    url: "https://jd.lovebabyforever.workers.dev/"
     interval: 21600
     path: ./proxy_providers/sub2.yaml
     health-check:
