@@ -118,7 +118,7 @@ dns:
 proxy-providers:
   订阅1:
     type: http
-    url: "https://gh-proxy.com/raw.githubusercontent.com/yuanwangokk-1/subscribe/refs/heads/main/clash/a.yaml"
+    url: "https://aries.yuanwangokk.nyc.mn/~ppp"
     interval: 21600
     path: ./proxy_providers/sub1.yaml
     health-check:
@@ -127,7 +127,7 @@ proxy-providers:
       interval: 1800
   订阅2:
     type: http
-    url: "https://url.v1.mk/sub?target=clash&url=https://textdb.online/FenMeiLovePP1730534865067&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online_Full_NoAuto.ini&emoji=true&list=false&xudp=false&udp=false&tfo=false&expand=true&scv=false&fdn=false&new_name=true"
+    url: "https://aries.yuanwangokk.nyc.mn/~ppppp"
     interval: 21600
     path: ./proxy_providers/sub2.yaml
     health-check:
