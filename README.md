@@ -15,7 +15,11 @@
 
 =====================================================
 
-Clash meta 订阅链接：
+Clash meta订阅链接：
+
+```ini
+https://shz.6670088.xyz/
+```
 
 ```ini
 https://catbox.moe/
@@ -26,13 +30,17 @@ https://igdux.top/
 ```
 ```ini
 https://dpaste.org/
+```
 
+```ini
 https://pastebin.aries-bot.eu.org/
+```
 
+```ini
 https://URL/sub?host=[域名]&uuid=[UUID]&path=[路径]
 ```
 
-SingBox 订阅链接：
+SINGBOX订阅链接：
 
 ```ini
 https://igdux.top/
@@ -46,7 +54,7 @@ https://dpaste.org/
 https://pastebin.aries-bot.eu.org/
 ```
 
-Acl4ssr配置文件:
+ACL4SSR配置文件:
 
 ```ini
 https://raw%2Egithubusercontent%2Ecom/yuanwangokk%2D1/subscribe/refs/heads/main/ACL4SSR/Clash/config/ACL4SSR%5FOnline%5FFull%2Eini
